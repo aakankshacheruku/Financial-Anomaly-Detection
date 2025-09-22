@@ -24,3 +24,5 @@ Outputs will appear in `reports/tables/` and `reports/figures/`.
 
 ## Preview
 After `make quickstart`, you should see a CSV table and one PNG in `reports/`.
+![Amounts histogram (sample)](reports/figures/amount_hist.png)
+
