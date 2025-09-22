@@ -1,0 +1,7 @@
+txn_id,amount,category
+t1,19.99,food
+t2,21.50,food
+t3,20.49,food
+t4,9999.00,other
+t5,18.75,food
+t6,22.10,food
