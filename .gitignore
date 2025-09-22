@@ -9,3 +9,7 @@ data/*
 
 reports/*
 !reports/README.md
+!reports/tables/
+!reports/figures/
+!reports/*.png
+!reports/*.csv
