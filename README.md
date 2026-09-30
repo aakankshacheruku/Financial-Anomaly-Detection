@@ -2,7 +2,7 @@
 
 **Result:** Out of 12,000 transactions, two statistical methods flagged 264 as unusual, and 152 were flagged by both. Those 152 are the short list a reviewer should check first!
 
-<!-- Drag a chart from reports/figures/ here, then delete this line. -->
+![Flag rate by category](reports/figures/flag_rate_by_category.png)
 
 ## The Problem
 
